@@ -1,1 +1,50 @@
 # PPAW_UTS_FINALISASI_Rencana_Proyek_x4
+
+## 1. Judul/Topik Final Proyek
+Judul proyek kami adalah "Platform Jual-Beli Online untuk UMKM". 
+
+## 2. Fitur Aplikasi
+
+### A. Fitur dari Sisi User
+- **Halaman Beranda**: Tampilan awal aplikasi untuk memberikan gambaran tentang produk unggulan.
+- **Registrasi dan Login**: Pengguna dapat membuat akun atau login.
+- **Profil Pengguna**: Mengelola informasi akun pengguna.
+- **Pencarian Produk**: Fitur pencarian produk berdasarkan kategori atau kata kunci.
+- **Keranjang Belanja**: Tempat pengguna menambahkan produk yang akan dibeli.
+- **Halaman Produk**: Menampilkan detail produk dengan deskripsi dan harga.
+- **Checkout dan Pembayaran**: Proses untuk melakukan pembayaran.
+- **Notifikasi**: Pemberitahuan terkait transaksi atau status pesanan.
+- **FAQ**: Daftar pertanyaan umum untuk membantu pengguna.
+- **Kontak**: Informasi kontak layanan pelanggan.
+
+### B. Fitur dari Sisi Admin
+- **Dashboard**: Menampilkan ringkasan aktivitas aplikasi.
+- **Manajemen Pengguna**: Mengelola akun pengguna.
+- **Manajemen Produk**: Menambahkan, mengedit, atau menghapus produk.
+- **Manajemen Pesanan**: Melacak dan memproses pesanan pengguna.
+- **Laporan Penjualan**: Menyediakan laporan data penjualan.
+- **Pengaturan Sistem**: Mengkonfigurasi pengaturan umum aplikasi.
+- **Log Aktivitas**: Mencatat aktivitas admin.
+
+## 3. Rencana Jumlah Tabel
+- **Pengguna**
+- **Produk**
+- **Pesanan**
+- **Kategori Produk**
+- **Pembayaran**
+- **Log Aktivitas**
+
+## 4. Rencana Kegiatan Mingguan
+
+- **Minggu ke-8 (12-18 Nov 2024)**: Membuat desain awal tampilan aplikasi dan menyiapkan database.
+- **Minggu ke-9 (19-25 Nov 2024)**: Mengembangkan halaman user (home, produk, keranjang, dll.).
+- **Minggu ke-10 (26 Nov - 2 Des 2024)**: Mengembangkan halaman admin (dashboard, manajemen produk, dll.).
+- **Minggu ke-11 (3 - 9 Des 2024)**: Testing dan debugging fitur aplikasi.
+- **Minggu ke-12 (10 - 16 Des 2024)**: Menyempurnakan aplikasi dan menyiapkan dokumentasi.
+
+## 5. Upaya Kelompok
+Kami berkomitmen menyelesaikan proyek ini dengan beberapa upaya:
+- Menyusun jadwal kerja yang detail.
+- Menerapkan metode agile, dengan review mingguan.
+- Menggunakan GitHub untuk kolaborasi agar kontribusi tiap anggota terlihat jelas.
+
